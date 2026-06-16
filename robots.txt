@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samuelnaina2-max.github.io/nairobi-massage-site/sitemap.xml
